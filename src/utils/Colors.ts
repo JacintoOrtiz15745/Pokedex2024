@@ -50,6 +50,8 @@ export const colors = {
     black: '#17171B',
     gray: '#747476',
     number: 'rgba(23, 23, 27, 0.6)',
+    numberBig: 'rgba(23, 23, 27, 0.6)',
+    white3: 'rgba(255, 255, 255, 0.3)'
   },
   height: {
     short: '#FFC5E6',
